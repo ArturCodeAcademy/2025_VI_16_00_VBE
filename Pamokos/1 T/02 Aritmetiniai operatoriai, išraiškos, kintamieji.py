@@ -47,9 +47,9 @@ result = ((a + b) * (a - b)) ** b
 ((2 + 3) * (2 - 3)) ** 3
 (5 * (-1)) ** 3
 (-5) ** 3
-125
+-125
 """
-print(result)  # 125
+print(result)  # -125
 
 
 # Mes galime atlikti operacijas su kintamaisiais
