@@ -295,3 +295,4 @@ print(str_arr) # ['1', '2.5', 'Hello', 'True', '[1, 2, 3]', '(4, 5, 6)']
 
 # Masyvo elementų sujungimas į tekstą
 print(" ".join(str_arr)) # 1 2.5 Hello True [1, 2, 3] (4, 5, 6)
+print(" <--=+=--> ".join(str_arr)) # 1 2.5 Hello True [1, 2, 3] (4, 5, 6)
